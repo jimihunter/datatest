@@ -1,0 +1,7 @@
+__pycache__/*
+test/test_tasks.py
+.git
+.git/*
+src/__pycache__/*
+test/__pycache__/*
+test/.pytest_cache/*

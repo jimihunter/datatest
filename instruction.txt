@@ -1,0 +1,18 @@
+Explanation and How to execute the code
+
+Alternative approach I would have used would be to use an ORM so that it will be alot easier 
+and less verbose in achieving this task. It will also remove the sql query part because with the ORM
+approach it will be alot easier to chain actions together. However, this comes with its own complexity.
+
+How to run the code and dependencies
+
+In other to run this code the following steps needs to be followed
+
+1. install the dependencies in the requirements.txt file thus:
+	pip3 install -r requirements.txt 
+2. navigate to the directory ../datatest/src
+3. run the command python app.py from the terminal or cmd
+
+for running test
+1. navigate to the directory ../datatest/test
+2. run the command python -k final -s from the terminal or cmd
